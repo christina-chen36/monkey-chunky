@@ -3,6 +3,10 @@
 		"chunks": ["th", "e"],
 		"phones": ["DH", "AH"]
 	},
+	"christina": {
+		"chunks": ["ch", "r", "is", "ti", "na"],
+		"phones": ["KA", "REE", "ISS", "TEE", "NAH"],
+	},
 	"of": {
 		"chunks": ["o", "f"],
 		"phones": ["AH", "V"]
